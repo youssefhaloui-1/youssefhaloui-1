@@ -10,7 +10,7 @@
       <ul>
         <li>🔭 I’m currently studying <b>Software Engineering</b></li>
         <li>🌱 I’m sharpening my skills in <b>Web Development and Database Management</b></li>
-        <li>📫 How to reach me: <b>haloui.youssef02@gmail.com</b></li>
+        <li>📫 Contact me via : <b>haloui.youssef02@gmail.com</b></li>
       </ul>
     </td>
     <td width="40%" align="right" style="vertical-align: top;">
