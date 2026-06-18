@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Youssef! 👋
 
-<!--
-**youssefhaloui-1/youssefhaloui-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student passionate about building efficient software and web applications.
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C, C++, SQL, JavaScript, HTML, CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, MySQL
+
+### 📬 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com) *https://www.linkedin.com/in/youssef-haloui-458138417/*
+- ✉️ [Email](mailto:your.email@example.com) *haloui.youssef02@gmail.com*
