@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate software engineering student from Morocco</h3>
 
-<img align="right" alt="Coding" width="380" src="https://steamuserimages-a.akamaihd.net/ugc/81465929073340495/E6F64A1452B8609AB04A11E4FF5A20F3C208FB67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-
 - 🔭 I’m currently studying **Software Engineering**
 - 🌱 I’m sharpening my skills in **Web Development and Database Management**
 - 📫 How to reach me: **haloui.youssef02@gmail.com**
@@ -31,10 +29,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" width="100%" />
 </p>
