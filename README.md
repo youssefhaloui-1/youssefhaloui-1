@@ -6,7 +6,7 @@
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" style="vertical-align: top;">
-      <h3 align="left">A passionate software engineering student from Morocco 🇲🇦</h3>
+      <h3 align="center">A passionate software engineering student from Morocco </h3>
       <ul>
         <li>🔭 I’m currently studying <b>Software Engineering</b></li>
         <li>🌱 I’m sharpening my skills in <b>Web Development and Database Management</b></li>
