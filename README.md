@@ -2,6 +2,9 @@
     <h1 align="center">Hi, I'm Youssef Haloui 👋</h1>
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+
+
 <h3 align="center">A passionate software engineering student from Morocco</h3>
 
 - 🔭 I’m currently studying **Software Engineering**
