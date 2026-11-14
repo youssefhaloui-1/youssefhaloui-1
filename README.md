@@ -25,7 +25,7 @@
 <!-- Connect Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/_y1vf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_y1vg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   &nbsp;&nbsp;
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   <code style="vertical-align: middle;">error1.</code> <span style="vertical-align: middle;">(copy to add me)</span>
